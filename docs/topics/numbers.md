@@ -24,7 +24,9 @@ val oneLong = 1L // Long
 val oneByte: Byte = 1
 ```
 
-In addition to integer types, Kotlin also provides unsigned integer types. For more information, see [Unsigned integer types](unsigned-integer-types.md).
+> In addition to integer types, Kotlin also provides unsigned integer types. For more information, see [Unsigned integer types](unsigned-integer-types.md).
+>
+{type="tip"}
 
 ## Floating-point types
 
