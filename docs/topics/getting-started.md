@@ -14,7 +14,7 @@ or signing up for the free [Kotlin Basics track](https://hyperskill.org/join/fro
 ## Install Kotlin
 
 Kotlin is included in each [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) and [Android Studio](https://developer.android.com/studio) release.  
-Download and install one of these IDEs to start using Kotlin.
+Download and install one of these IDEs to start using Kotlin!
 
 ## Create your powerful application with Kotlin
  
